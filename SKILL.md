@@ -3,7 +3,7 @@ name: neural-network-intuition-builder
 description: Transform technical neural network explanations into intuitive, biologically-grounded analogies using Geoffrey Hinton's characteristic explanatory style.
 license: MIT
 metadata:
-  version: 1.0.4576
+  version: 1.0.4577
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
